@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+pickle-mixin
+streamlit==3.13.0
+imbalanced-learn
