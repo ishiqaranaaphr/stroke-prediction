@@ -1,9 +1,10 @@
+streamlit==1.49.1
 pandas
 numpy
 scikit-learn
+scipy
 matplotlib
 seaborn
 joblib
-pickle-mixin
-streamlit==3.13.0
 imbalanced-learn
+cloudpickle
